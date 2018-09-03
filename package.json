@@ -31,6 +31,6 @@
     "eslint": "^4.19.0"
   },
   "scripts": {
-    "lint": "eslint src tests"
+    "lint": "eslint bin/* lib"
   }
 }
