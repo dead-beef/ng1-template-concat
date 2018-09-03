@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// -*- mode: js -*-
 
 const fs = require('fs');
 const concat = require('../lib/index.js');
